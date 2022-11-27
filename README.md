@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="[https://i.imgur.com/Rzlnm0x.jpg](https://imgur.com/a/RpUq1vY)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/a/RpUq1vY" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Download osTicket. Extract and copy the “upload” folder INTO c:\inetpub\wwwroot. Within c:\inetpub\wwwroot, Rename “upload” to “osTicket." 
